@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre Mim </h3>
 
-- 💻 &nbsp; entusiasta na área de tecnologia.
+- 💻 &nbsp; Entusiasta na área de tecnologia.
 - 🎓 &nbsp; Estudando ciência da computação na UTFPR.
 - 🌱 &nbsp; Aprendendo mais sobre web e mobile.
 
